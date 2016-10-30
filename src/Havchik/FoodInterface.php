@@ -9,7 +9,7 @@
 namespace Vendor\Reporter\Havchik;
 
 
-interface Food
+interface FoodInterface
 {
     /**
      * @param string $url
