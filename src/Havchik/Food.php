@@ -15,5 +15,5 @@ interface Food
      * @param string $url
      * @return array
      */
-    public function makeReady($url)
+    public function takeSome($url)
 }
