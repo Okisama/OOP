@@ -24,7 +24,7 @@ class Kartofan implements FoodInterface
 
     public function takeSome($url)
     {
-        // Getting coordinates of food by $this->path
+        // Getting properties of food by $this->path
         return [
             'x' => 152,
             'y' => 254,
